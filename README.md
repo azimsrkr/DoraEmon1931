@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoraEmon1931
+- 👋 Hi, I’m @Adul Azim
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on .
